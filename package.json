@@ -1,0 +1,27 @@
+{
+  "name": "node-x10",
+  "version": "0.0.1",
+  "description": "Module for controlling devices over X10.",
+  "main": "lib/cm11.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stormboy/node-x10.git"
+  },
+  "keywords": [
+    "X10",
+    "CM11",
+    "CM12",
+    "automation",
+    "\"smart",
+    "home\""
+  ],
+  "author": "Warren Bloomer",
+  "license": "BSD",
+  "readmeFilename": "README.md"
+}
