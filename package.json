@@ -1,5 +1,5 @@
 {
-  "name": "node-x10",
+  "name": "x10",
   "version": "0.0.1",
   "description": "Module for controlling devices over X10.",
   "main": "lib/cm11.js",
